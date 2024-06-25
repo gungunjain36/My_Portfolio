@@ -1,0 +1,49 @@
+.edu-list{
+    margin: 5px;
+    padding-top: 20px;
+}
+
+.project-main{
+    background: linear-gradient(to right, rgb(236, 236, 160), #82f1d0);
+    /* margin-top: 100px;/ */
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.project-in{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    margin: 10px;
+}
+
+.project-item{
+    display: flex;
+    justify-content: center;
+    border: solid rgb(209, 205, 205) 1px;
+    padding: 10px;
+    border-radius: 20px;
+    /* background: linear-gradient(to right, rgb(236, 236, 160), #82f1d0); */
+    /* background-color: aliceblue; */
+    backdrop-filter: blur(200px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+.img-box{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
+
+.pr-content{
+    font-weight: 500;
+    font-style: italic;
+    color: black;
+}
