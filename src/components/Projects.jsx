@@ -10,17 +10,8 @@ function Projects(){
             <Navbar />
             <div className="project-main">
                 <div className="project-in">
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url={"https://github.com/gungunjain36"} />
-                <ProjectBox content={"Portfolio"} imgURL={image} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
-                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url ={"#"} />
+                <ProjectBox content={"MusicOn"} imgURL={MusicOnpic} url={"https://spotify-omega-weld.vercel.app/"} />
+                <ProjectBox content={"Portfolio"} imgURL={image} url ={"https://my-portfolio-gungun-jains-projects.vercel.app/"} />
                 </div>
             </div>
         </div>
